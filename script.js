@@ -1,6 +1,6 @@
 // Event listener para cambiar el texto
 document.getElementById('changeText').addEventListener('click', function() {
-    document.getElementById('message').innerText = '¡El texto ha cambiado!';
+    document.getElementById('message').innerText = '¡Favor de apoyarme para pasar la revaloración!';
 });
 
 // Autenticación básica de usuario
